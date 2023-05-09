@@ -1,10 +1,39 @@
-body {
+#banner-PCRJ {
+    width: 100%;
+}
+.principal-PCRJ {
     background: #CCCCCC;
+    padding: 30px;
+}
+.titulo-principal-PCRJ {
+    padding-left: 20px;
+}
+.titulo-centralizado-PCRJ {
+    text-align: center;
 }
 p {
     text-align: center;
 }
+#missao-PCRJ{
+    font-size: 20px;
+}
 em strong {
-    color: red;
+    color: #FF0000;
+}
+.itens {
+    font-style: italic;
 }
 
+.beneficios-PCRJ {
+    background: #ffffff;
+    padding: 20px;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagemBeneficios-PCRJ {
+    width: 50%;
+}
