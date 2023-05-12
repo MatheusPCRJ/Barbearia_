@@ -64,3 +64,13 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+footer {
+    background: url(img/bg.jpg);
+    text-align: center;
+    padding: 40px 0;
+}
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
