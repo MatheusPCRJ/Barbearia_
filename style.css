@@ -64,3 +64,67 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+footer {
+    background: url(img/bg.jpg);
+    text-align: center;
+    padding: 40px 0;
+}
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+form {
+    margin: 40px 0;
+}
+form label, legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px
+}
+.input-padrao-PCRJ {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.checkbox {
+    margin: 20px 0;
+}
+form .enviar {
+    align-items: center;
+}
+.enviar {
+    width: 40%;
+    padding: 20px 0;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    background: #ffa500;
+    color: #ffffff;
+    margin-left: 7%;
+    transition: 1s all;
+    cursor: pointer;
+}
+.enviar:hover {
+    background: #ff8c00;
+    transform: scale(1.05)
+}
+table {
+    margin: 20px 0;
+}
+thead {
+    background: #808080;
+    font-weight: bold;
+    color: #ffffff;
+}
+td, th {
+    border: 1px #000000 solid;
+    padding: 8px 15px;
+}
